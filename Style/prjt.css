@@ -1,0 +1,30 @@
+body{
+    background-color: #1574bb;
+} 
+ul{
+    float: right;
+    display: flex;
+    list-style-type: none;
+    margin-top: -2%;
+    font-family: "berlin sans fb";
+}
+nav li a{
+    text-decoration: none;
+    margin: 15px;
+    padding: 10px;
+    font-size: 25px;
+    color: #fff;
+}
+.t1{
+    font-size: 25px;
+    padding: 10px;
+}
+.couleur1{
+    color: #000;
+    text-decoration: none;
+    font-family: "berlin sans fb";
+}
+span{
+    color: #fff;
+    font-family: "berlin sans fb";
+}
